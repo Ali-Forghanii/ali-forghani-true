@@ -1,1 +1,4 @@
-
+- 👋 Hi, I’m Ali Forghani
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning Python
+- 📫 How to reach me : Email : ali.forghani.true@gmail.com
